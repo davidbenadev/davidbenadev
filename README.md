@@ -1,3 +1,29 @@
+<div>
+🔴🟡🟢
+
+<br>
+
+</div>
+
+
+<div align="center">
+  <img src="https://drive.google.com/file/d/17Pa4-nyWpdc-End8I3l2n6VGFOhdorG9/view?usp=drive_link" alt="Card header"/>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=davidbenadev&color=blueviolet" alt="Profile views" />
+  &nbsp;
+  <a href="https://github.com/Pepyn0?tab=followers">
+    <img src="https://img.shields.io/github/followers/davidbenadev?style=social" alt="Followers" />
+  </a>
+</p>
+
+
+<div>
+
+
+
+
 ### Hi there 👋
 
 <!--
