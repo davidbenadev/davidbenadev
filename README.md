@@ -22,7 +22,7 @@
 
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+## Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/david-rincon-benavides" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="subhadeep-chakraborty-b341a8191" height="30" width="40" /></a>
 <a href="mailto:davirin96@gmail.com" >
@@ -32,7 +32,7 @@
 
 
 
-# <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools:
+# Languages and Tools:
 
 <p align="left"> 
 
