@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/david-rincon-benavides" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="subhadeep-chakraborty-b341a8191" height="30" width="40" /></a>
 <a href="mailto:davirin96@gmail.com" >
-<img align="center" alt="Taban Soleymani | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
+<img align="center" alt="gmail" width="40" src="https://raw.githubusercontent.com/davidbenadev/davidbenadev/39876105016468e834d67c9d24add5af8bc30691/icons/gmail.svg" />
 </a>
 </p>
 
@@ -40,11 +40,11 @@
 
   <img src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/0019f78fde9bc9587d864ff14d25ca23c3475e13/icons/ProgrammingLanguages/javascript.svg" alt="vue" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/0019f78fde9bc9587d864ff14d25ca23c3475e13/icons/FrontendDevelopment/reactjs.svg" alt="react" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/0019f78fde9bc9587d864ff14d25ca23c3475e13/icons/StaticSiteGenerators/nextjs.svg" alt="next" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/davidbenadev/davidbenadev/main/icons/next.webp" alt="next" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/0019f78fde9bc9587d864ff14d25ca23c3475e13/icons/FrontendDevelopment/vuejs.svg" alt="vue" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/0019f78fde9bc9587d864ff14d25ca23c3475e13/icons/BackendDevelopment/nodejs.svg" alt="node" width="40" height="40"/> 
 
-  <img src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/0019f78fde9bc9587d864ff14d25ca23c3475e13/icons/ProgrammingLanguages/php.svg" alt="next" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/davidbenadev/davidbenadev/39876105016468e834d67c9d24add5af8bc30691/icons/php.svg" alt="next" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/0019f78fde9bc9587d864ff14d25ca23c3475e13/icons/Framework/laravel.svg" alt="laravel" width="40" height="40"/> 
 
 
@@ -57,13 +57,13 @@
 
   <img src="https://github.com/SubhadeepZilong/SubhadeepZilong/blob/main/icons/Other/linux.svg" alt="next" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/0019f78fde9bc9587d864ff14d25ca23c3475e13/icons/BackendDevelopment/nginx.svg" alt="nginx" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/0019f78fde9bc9587d864ff14d25ca23c3475e13/icons/Devops/bash.svg" alt="bash" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/davidbenadev/davidbenadev/39876105016468e834d67c9d24add5af8bc30691/icons/bash.svg" alt="bash" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/0019f78fde9bc9587d864ff14d25ca23c3475e13/icons/Devops/docker.svg" alt="docker" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/0019f78fde9bc9587d864ff14d25ca23c3475e13/icons/Devops/kubernetes.svg" alt="kurbenetes" width="40" height="40"/> 
 
   <img src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/0019f78fde9bc9587d864ff14d25ca23c3475e13/icons/Database/postgresql.svg" alt="postgres" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/0019f78fde9bc9587d864ff14d25ca23c3475e13/icons/Database/mysql.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/0019f78fde9bc9587d864ff14d25ca23c3475e13/icons/Database/mariadb.svg" alt="mariadb" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/davidbenadev/davidbenadev/39876105016468e834d67c9d24add5af8bc30691/icons/mysql.svg" alt="mysql" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/davidbenadev/davidbenadev/39876105016468e834d67c9d24add5af8bc30691/icons/mariadb.svg" alt="mariadb" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/0019f78fde9bc9587d864ff14d25ca23c3475e13/icons/Database/elasticsearch.svg" alt="elastic" width="40" height="40"/> 
 
   <img src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/0019f78fde9bc9587d864ff14d25ca23c3475e13/icons/BackendDevelopment/graphql.svg" alt="graphql" width="40" height="40"/> 
