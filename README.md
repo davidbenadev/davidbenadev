@@ -9,13 +9,6 @@
   <img src="https://raw.githubusercontent.com/davidbenadev/davidbenadev/main/3.png" alt="Card header"/>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=davidbenadev&color=blueviolet" alt="Profile views" />
-  &nbsp;
-  <a href="https://github.com/Pepyn0?tab=followers">
-    <img src="https://img.shields.io/github/followers/davidbenadev?style=social" alt="Followers" />
-  </a>
-</p>
 
 <p><img align="right" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" alt="SubhadeepZilong" width="400" /></p>
 
